@@ -1,0 +1,1533 @@
+{
+	"folder_history":
+	[
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/b/bets.it",
+		"/home/maddale/projects/crawler/athena_crawlers",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/markaida.net",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/t/thetrucktraders.nl",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/e/ennens.de",
+		"/home/maddale/projects/crawler",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/thetrucktraders.nl",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/m/markaida.net",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/w/westtrac-depauw.be",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/d/dom-rol.pl",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/m/mecano.cat",
+		"/media/maddale/Disc_1_TB/local server/site/app",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com",
+		"/home/maddale/.rvm/gems/ruby-2.5.0/bundler/gems/athena-e20f20d31323",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/lmbprins.nl",
+		"/media/maddale/Disc_1_TB/local server/site/",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/brunner-aufbereitungstechnik.de",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/agrimac.be",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/hovenlangelo.nl",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/gruppozavalloni.it",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/capobiancotrattori.it",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/evrotuk.com.ua",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/autogreven.nl",
+		"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/lozeman.nl",
+		"/home/maddale/projects/crawler/athena_crawlers/log"
+	],
+	"last_version": 3126,
+	"last_window_id": 78,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"location",
+						"location"
+					],
+					[
+						"ca",
+						"categories"
+					],
+					[
+						"parse",
+						"parse_categories"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 356.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 178.0,
+				"history":
+				[
+					"crawlers/i18n/thetruktraders.nl"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it/agrimontello.it_it.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it/agrimontello.it_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it/agrimontello.it.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/k/kubota.cz.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/d/dougdeals.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/bets.it_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/bets.it_it.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/b/brockhills.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/markaida.net_es.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/markaida.net_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/markaida.net_de.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/t/thetrucktraders.nl/thetrucktraders.nl.rb",
+				"/etc/resolv.conf",
+				"/etc/resolv.config",
+				"/etc/resolve.config",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/u/used-massey-tractors.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/t/temevalleytractors.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/temevalleytractors.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/dealerwebcentral/premierequipment.ca.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/ennens.de_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/ennens.de_de.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/t/thetrucktraders.nl/thetrucktraders.nl_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/b/bets.it/bets.it_it.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/b/bets.it/bets.it_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/b/bets.it/bets.it.rb",
+				"/home/maddale/.config/sublime-text-3/Packages/User/titleif.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/hash.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/next if.sublime-snippet",
+				"/home/maddale/projects/crawler/athena_crawlers/lib/seller_duplication.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/brockhills.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/b/brock",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/p/patrickedwardsmachinery.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/athena_crawlers",
+				"/home/maddale/Desktop/thetrucktraders.nl_de.rb",
+				"/home/maddale/Desktop/thetrucktraders.nl_en.rb",
+				"/home/maddale/Desktop/thetrucktraders.nl_nl.rb",
+				"/home/maddale/Desktop/thetrucktraders.nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i/ipsinter.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/config/currency.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/t/thetrucktraders.nl",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/e/ennens.de/ennens.de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/e/ennens.de/ennens.de_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/e/ennens.de/ennens.de_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/getcar.jp/getcar.jp_es.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/o/oharamachinery.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/o/oharamachinery.co",
+				"/home/maddale/projects/crawler/athena_crawlers/log/jfsales.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/j/jfsales.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/r/rossagri.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/rossagri.co.uk_en.yml",
+				"/home/maddale/Desktop/brockhills.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mtr/brockhillsag.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/westtrac-depauw.be_nl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/westtrac-depauw.be_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/used-massey-tractors.com_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/dom-rol.pl_pl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/dom-rol.pl_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/o/ohmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mecano.cat_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mecano.cat_es.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/patrickedwardsmachinery.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mpmaskiner.dk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus_crawler.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/mpmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/r/rescienceinc.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/l/lenmark.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/r/repforceequipment.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/u/usedtaylordunnequipment.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/oharamachinery.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/s-mf.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/rotrakas.lt.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/sundahls.se.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/m/mecano.cat/mecano.cat_es.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/m/mecano.cat/mecano.cat_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/m/mecano.cat/mecano.cat.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/quigleysgarage.ie_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/q/quigleysgarage.ie.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/ohmaskiner.dk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/beckmaskin.se.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse/pcmaskiner.dk/pcmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse_crawler.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse/mpmaskiner.dk/mpmaskiner.dk_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse/mpmaskiner.dk/mpmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mpmaskiner.dk_en__mascus.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/hameentraktori.fi.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/snstrade.nl/snstrade.nl_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/andresenmaskin.se.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/m/mpmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/t/townandcountrytruck.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/w/wichtex.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/config/remove_listing.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_pl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_nl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_fr.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_es.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_de.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/jhfitzpatrick.ie_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/j/jhfitzpatrick.ie.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/s/s-mf.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/s-mf.com_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/d/dom-rol.pl/dom-rol.pl_pl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/d/dom-rol.pl/dom-rol.pl_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/d/dom-rol.pl/dom-rol.pl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/x/x-maskiner.se/x-maskiner.se_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/z/zg-raiffeisen-technik.de/zg-raiffeisen-technik.de_de.rb",
+				"/home/maddale/Desktop/ohmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_pl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_es.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_fr.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/f/farmas.dk/farmas.dk_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/f/farmas.dk/farmas.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/c/cavanaghsoffermoynewholland.ie.rb",
+				"/home/maddale/Desktop/vd-burg.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/e/eutrucks.nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/m/mosterttrading.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/w/whitesfarmsupply.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/z/zmagturf.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/w/wnkramer.nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/v/vos-trucks.nl.rb",
+				"/home/maddale/.config/sublime-text-3/Packages/User/seller.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/field.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/fields.sublime-snippet",
+				"/home/maddale/projects/crawler/athena_crawlers/log/cavanaghsoffermoynewholland.ie_en.yml"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 118.0,
+				"where_history":
+				[
+					"-/crawlers/*/*",
+					"-crawlers/*/*",
+					"-crawlers/*/*.rb",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"href",
+					"price",
+					"desc",
+					"title",
+					"specs",
+					"title",
+					"address",
+					"Marshell",
+					"image_url_set",
+					"5ab3ac4aa6189.jpg",
+					"→",
+					"bc",
+					"new",
+					"title",
+					"c60d4094-7073-b461-ff0d-9f66a71d2e70",
+					"bd",
+					":categories:\n    - Tractors",
+					"price",
+					"comp",
+					"wix",
+					"manufacturer",
+					"categories",
+					"itle",
+					"model",
+					"skipped_cats",
+					", ",
+					"manufacturer",
+					"title",
+					"address",
+					"title",
+					"address",
+					"Triumf",
+					"Triumf 9T",
+					"technikboerse",
+					"title",
+					"request",
+					"parse_category",
+					"1526049986",
+					"tractor",
+					"1526398014",
+					"2011 McHale 1.6m Shear Grab",
+					"desc",
+					"model",
+					"title",
+					"\tEpoke Hydr. kost",
+					"current_page",
+					"description",
+					"skipped_specs",
+					"byebug",
+					"price",
+					"ciągnik do obejrzenia",
+					"posiadamy duży",
+					"200 maszyn",
+					"zapewniamy fachowe doradztwo techniczne",
+					"Zapraszamy do zapoznania",
+					"title",
+					"byebug",
+					"title",
+					"1524722939",
+					"1522931672",
+					"1526049986",
+					"tractor",
+					"description",
+					"local_lang",
+					"title",
+					"next_page",
+					"external stock number",
+					"kogel-sn24",
+					"SN24",
+					"bye",
+					"title",
+					"bye",
+					"split",
+					"byebug",
+					"title",
+					"content",
+					"text",
+					"price",
+					"byebug",
+					"Howard",
+					"tel ",
+					"tel",
+					"call",
+					"title",
+					"ford ",
+					"weights",
+					"ford",
+					"stop_words",
+					"title",
+					"title\\",
+					"title",
+					"parse_category",
+					"title",
+					"manufacturer",
+					"parse_listing",
+					"year",
+					"categories",
+					"title",
+					"bye",
+					"title",
+					"year",
+					"line",
+					"budozer",
+					"title",
+					"year",
+					"DHG-GT",
+					"ESE 606 DHG-GT Duplex",
+					"descrip",
+					"Attachment\\",
+					"Attachment",
+					"title",
+					"TM190",
+					"title",
+					"Hydraulic Excavators",
+					"Excavators",
+					"Articulated Trucks",
+					"currency",
+					"title",
+					"description",
+					"title",
+					"Rotary",
+					"Rotary plough",
+					"title",
+					"mower",
+					"title",
+					"price",
+					"manufacturer",
+					"country"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					">",
+					"<"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 287.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"location",
+						"location"
+					],
+					[
+						"ca",
+						"categories"
+					],
+					[
+						"parse",
+						"parse_categories"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it/agrimontello.it_en.rb",
+					"settings":
+					{
+						"buffer_size": 224,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 356.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 178.0,
+				"history":
+				[
+					"crawlers/i18n/thetruktraders.nl"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it"
+			],
+			"file_history":
+			[
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it/agrimontello.it.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it/agrimontello.it_it.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it/agrimontello.it_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/k/kubota.cz.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/d/dougdeals.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/bets.it_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/bets.it_it.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/b/brockhills.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/markaida.net_es.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/markaida.net_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/markaida.net_de.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/t/thetrucktraders.nl/thetrucktraders.nl.rb",
+				"/etc/resolv.conf",
+				"/etc/resolv.config",
+				"/etc/resolve.config",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/u/used-massey-tractors.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/t/temevalleytractors.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/temevalleytractors.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/dealerwebcentral/premierequipment.ca.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/ennens.de_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/ennens.de_de.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/t/thetrucktraders.nl/thetrucktraders.nl_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/b/bets.it/bets.it_it.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/b/bets.it/bets.it_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/b/bets.it/bets.it.rb",
+				"/home/maddale/.config/sublime-text-3/Packages/User/titleif.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/hash.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/next if.sublime-snippet",
+				"/home/maddale/projects/crawler/athena_crawlers/lib/seller_duplication.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/brockhills.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/b/brock",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/p/patrickedwardsmachinery.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/athena_crawlers",
+				"/home/maddale/Desktop/thetrucktraders.nl_de.rb",
+				"/home/maddale/Desktop/thetrucktraders.nl_en.rb",
+				"/home/maddale/Desktop/thetrucktraders.nl_nl.rb",
+				"/home/maddale/Desktop/thetrucktraders.nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i/ipsinter.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/config/currency.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/t/thetrucktraders.nl",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/e/ennens.de/ennens.de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/e/ennens.de/ennens.de_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/e/ennens.de/ennens.de_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/getcar.jp/getcar.jp_es.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/o/oharamachinery.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/o/oharamachinery.co",
+				"/home/maddale/projects/crawler/athena_crawlers/log/jfsales.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/j/jfsales.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/r/rossagri.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/rossagri.co.uk_en.yml",
+				"/home/maddale/Desktop/brockhills.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mtr/brockhillsag.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/westtrac-depauw.be_nl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/westtrac-depauw.be_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/used-massey-tractors.com_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/dom-rol.pl_pl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/dom-rol.pl_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/o/ohmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mecano.cat_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mecano.cat_es.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/patrickedwardsmachinery.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mpmaskiner.dk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus_crawler.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/mpmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/r/rescienceinc.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/l/lenmark.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/r/repforceequipment.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/u/usedtaylordunnequipment.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/oharamachinery.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/s-mf.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/rotrakas.lt.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/sundahls.se.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/m/mecano.cat/mecano.cat_es.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/m/mecano.cat/mecano.cat_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/m/mecano.cat/mecano.cat.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/quigleysgarage.ie_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/q/quigleysgarage.ie.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/ohmaskiner.dk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/beckmaskin.se.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse/pcmaskiner.dk/pcmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse_crawler.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse/mpmaskiner.dk/mpmaskiner.dk_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse/mpmaskiner.dk/mpmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mpmaskiner.dk_en__mascus.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/hameentraktori.fi.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/snstrade.nl/snstrade.nl_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/andresenmaskin.se.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/m/mpmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/t/townandcountrytruck.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/w/wichtex.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/config/remove_listing.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_pl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_nl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_fr.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_es.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_de.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/jhfitzpatrick.ie_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/j/jhfitzpatrick.ie.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/s/s-mf.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/s-mf.com_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/d/dom-rol.pl/dom-rol.pl_pl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/d/dom-rol.pl/dom-rol.pl_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/d/dom-rol.pl/dom-rol.pl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/x/x-maskiner.se/x-maskiner.se_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/z/zg-raiffeisen-technik.de/zg-raiffeisen-technik.de_de.rb",
+				"/home/maddale/Desktop/ohmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_pl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_es.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_fr.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/f/farmas.dk/farmas.dk_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/f/farmas.dk/farmas.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/c/cavanaghsoffermoynewholland.ie.rb",
+				"/home/maddale/Desktop/vd-burg.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/e/eutrucks.nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/m/mosterttrading.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/w/whitesfarmsupply.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/z/zmagturf.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/w/wnkramer.nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/v/vos-trucks.nl.rb",
+				"/home/maddale/.config/sublime-text-3/Packages/User/seller.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/field.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/fields.sublime-snippet",
+				"/home/maddale/projects/crawler/athena_crawlers/log/cavanaghsoffermoynewholland.ie_en.yml"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 118.0,
+				"where_history":
+				[
+					"-/crawlers/*/*",
+					"-crawlers/*/*",
+					"-crawlers/*/*.rb",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"href",
+					"price",
+					"desc",
+					"title",
+					"specs",
+					"title",
+					"address",
+					"Marshell",
+					"image_url_set",
+					"5ab3ac4aa6189.jpg",
+					"→",
+					"bc",
+					"new",
+					"title",
+					"c60d4094-7073-b461-ff0d-9f66a71d2e70",
+					"bd",
+					":categories:\n    - Tractors",
+					"price",
+					"comp",
+					"wix",
+					"manufacturer",
+					"categories",
+					"itle",
+					"model",
+					"skipped_cats",
+					", ",
+					"manufacturer",
+					"title",
+					"address",
+					"title",
+					"address",
+					"Triumf",
+					"Triumf 9T",
+					"technikboerse",
+					"title",
+					"request",
+					"parse_category",
+					"1526049986",
+					"tractor",
+					"1526398014",
+					"2011 McHale 1.6m Shear Grab",
+					"desc",
+					"model",
+					"title",
+					"\tEpoke Hydr. kost",
+					"current_page",
+					"description",
+					"skipped_specs",
+					"byebug",
+					"price",
+					"ciągnik do obejrzenia",
+					"posiadamy duży",
+					"200 maszyn",
+					"zapewniamy fachowe doradztwo techniczne",
+					"Zapraszamy do zapoznania",
+					"title",
+					"byebug",
+					"title",
+					"1524722939",
+					"1522931672",
+					"1526049986",
+					"tractor",
+					"description",
+					"local_lang",
+					"title",
+					"next_page",
+					"external stock number",
+					"kogel-sn24",
+					"SN24",
+					"bye",
+					"title",
+					"bye",
+					"split",
+					"byebug",
+					"title",
+					"content",
+					"text",
+					"price",
+					"byebug",
+					"Howard",
+					"tel ",
+					"tel",
+					"call",
+					"title",
+					"ford ",
+					"weights",
+					"ford",
+					"stop_words",
+					"title",
+					"title\\",
+					"title",
+					"parse_category",
+					"title",
+					"manufacturer",
+					"parse_listing",
+					"year",
+					"categories",
+					"title",
+					"bye",
+					"title",
+					"year",
+					"line",
+					"budozer",
+					"title",
+					"year",
+					"DHG-GT",
+					"ESE 606 DHG-GT Duplex",
+					"descrip",
+					"Attachment\\",
+					"Attachment",
+					"title",
+					"TM190",
+					"title",
+					"Hydraulic Excavators",
+					"Excavators",
+					"Articulated Trucks",
+					"currency",
+					"title",
+					"description",
+					"title",
+					"Rotary",
+					"Rotary plough",
+					"title",
+					"mower",
+					"title",
+					"price",
+					"manufacturer",
+					"country"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					">",
+					"<"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it/agrimontello.it_en.rb",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 224,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,1,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 287.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 77,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"location",
+						"location"
+					],
+					[
+						"ca",
+						"categories"
+					],
+					[
+						"parse",
+						"parse_categories"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/maddale/projects/crawler/athena_crawlers/log/agrimontello.it_en.yml",
+					"settings":
+					{
+						"buffer_size": 3622,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<snippet>\n  <content><![CDATA[\nHello, ${1:this} is a ${2:snippet}.\n]]></content>\n  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->\n  <!-- <tabTrigger>hello</tabTrigger> -->\n  <!-- Optional: Set a scope to limit where the snippet will trigger -->\n  <!-- <scope>source.python</scope> -->\n</snippet>\n",
+					"settings":
+					{
+						"buffer_size": 322,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "---\n- :external_website:\n    :url: agrimontello.it\n  :listing:\n    :spec_set: {}\n    :title: CARROBOTTE BOSSINI\n    :condition: used\n    :price: 28288\n    :manufacturer: \n    :year: \n    :external_website_listing_id: 3715969380\n    :address: Montebelluna, Italy\n    :description: \n    :external_url: https://www.agrimontello.it/?product=carrobotte-bossini-usata\n    :image_url: https://www.agrimontello.it/wp-content/uploads/2018/02/phpThumb_generated_thumbnailjpg.jpg\n    :image_url_set: https://www.agrimontello.it/wp-content/uploads/2018/02/phpThumb_generated_thumbnailjpg.jpg\n    :image_sha1: \n    :model: \n    :expires_at: \n    :categories:\n    - Trattori\n  :seller:\n    :name: Agrimontello S.r.l.\n    :address: Via Pontin, 9A, 31044, Montebelluna (TV), Italy\n    :phone: 0423 249268\n    :website: https://www.agrimontello.it/?page_id=30\n  :lang: it\n  :session: \n  :pos: 1\n- :external_website:\n    :url: agrimontello.it\n  :listing:\n    :spec_set: {}\n    :title: ROTOFRESA BREVIGLIERI COBRA\n    :condition: used\n    :price: 28288\n    :manufacturer: \n    :year: \n    :external_website_listing_id: 2174826046\n    :address: Montebelluna, Italy\n    :description: \n    :external_url: https://www.agrimontello.it/?product=rotofresa-usata-breviglieri-cobra\n    :image_url: https://www.agrimontello.it/wp-content/uploads/2018/02/rotofresa.jpg\n    :image_url_set: https://www.agrimontello.it/wp-content/uploads/2018/02/rotofresa.jpg\n    :image_sha1: \n    :model: \n    :expires_at: \n    :categories:\n    - Trattori\n  :seller:\n    :name: Agrimontello S.r.l.\n    :address: Via Pontin, 9A, 31044, Montebelluna (TV), Italy\n    :phone: 0423 249268\n    :website: https://www.agrimontello.it/?page_id=30\n  :lang: it\n  :session: \n  :pos: 2\n- :external_website:\n    :url: agrimontello.it\n  :listing:\n    :spec_set: {}\n    :title: TRATTORE LANDINI 9880\n    :condition: used\n    :price: 28288\n    :manufacturer: \n    :year: \n    :external_website_listing_id: 2125147254\n    :address: Montebelluna, Italy\n    :description: \n    :external_url: https://www.agrimontello.it/?product=trattore-landini-9880\n    :image_url: https://www.agrimontello.it/wp-content/uploads/2018/02/trattore.jpg\n    :image_url_set: https://www.agrimontello.it/wp-content/uploads/2018/02/trattore.jpg\n    :image_sha1: \n    :model: \n    :expires_at: \n    :categories:\n    - Trattori\n  :seller:\n    :name: Agrimontello S.r.l.\n    :address: Via Pontin, 9A, 31044, Montebelluna (TV), Italy\n    :phone: 0423 249268\n    :website: https://www.agrimontello.it/?page_id=30\n  :lang: it\n  :session: \n  :pos: 3\n- :external_website:\n    :url: agrimontello.it\n  :listing:\n    :spec_set: {}\n    :title: TRATTORE MF 4355 DT\n    :condition: used\n    :price: 28288\n    :manufacturer: \n    :year: \n    :external_website_listing_id: 2880523147\n    :address: Montebelluna, Italy\n    :description: \n    :external_url: https://www.agrimontello.it/?product=trattore-mf-4355-dt\n    :image_url: https://www.agrimontello.it/wp-content/uploads/2018/02/xmf-4355-600x600.jpg.pagespeed.ic.tnZl_iqTon.jpg\n    :image_url_set: https://www.agrimontello.it/wp-content/uploads/2018/02/xmf-4355-600x600.jpg.pagespeed.ic.tnZl_iqTon.jpg\n    :image_sha1: \n    :model: \n    :expires_at: \n    :categories:\n    - Trattori\n  :seller:\n    :name: Agrimontello S.r.l.\n    :address: Via Pontin, 9A, 31044, Montebelluna (TV), Italy\n    :phone: 0423 249268\n    :website: https://www.agrimontello.it/?page_id=30\n  :lang: it\n  :session: \n  :pos: 4\n",
+					"file": "/home/maddale/projects/crawler/athena_crawlers/log/agrimontello.it_it.yml",
+					"file_size": 3450,
+					"file_write_time": 131717223053163396,
+					"settings":
+					{
+						"buffer_size": 3450,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 356.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 178.0,
+				"history":
+				[
+					"crawlers/i18n/thetruktraders.nl"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/maddale/projects/crawler/athena_crawlers",
+				"/home/maddale/projects/crawler/athena_crawlers/config",
+				"/home/maddale/projects/crawler/athena_crawlers/log"
+			],
+			"file_history":
+			[
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it/agrimontello.it_it.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it/agrimontello.it_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/a/agrimontello.it/agrimontello.it.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/k/kubota.cz.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/d/dougdeals.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/bets.it_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/bets.it_it.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/b/brockhills.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/markaida.net_es.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/markaida.net_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/markaida.net_de.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/t/thetrucktraders.nl/thetrucktraders.nl.rb",
+				"/etc/resolv.conf",
+				"/etc/resolv.config",
+				"/etc/resolve.config",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/u/used-massey-tractors.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/t/temevalleytractors.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/temevalleytractors.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/dealerwebcentral/premierequipment.ca.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/ennens.de_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/ennens.de_de.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/t/thetrucktraders.nl/thetrucktraders.nl_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/b/bets.it/bets.it_it.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/b/bets.it/bets.it_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/b/bets.it/bets.it.rb",
+				"/home/maddale/.config/sublime-text-3/Packages/User/titleif.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/hash.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/next if.sublime-snippet",
+				"/home/maddale/projects/crawler/athena_crawlers/lib/seller_duplication.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/brockhills.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/b/brock",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/p/patrickedwardsmachinery.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/athena_crawlers",
+				"/home/maddale/Desktop/thetrucktraders.nl_de.rb",
+				"/home/maddale/Desktop/thetrucktraders.nl_en.rb",
+				"/home/maddale/Desktop/thetrucktraders.nl_nl.rb",
+				"/home/maddale/Desktop/thetrucktraders.nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i/ipsinter.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/config/currency.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/t/thetrucktraders.nl",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/e/ennens.de/ennens.de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/e/ennens.de/ennens.de_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/e/ennens.de/ennens.de_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/getcar.jp/getcar.jp_es.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/o/oharamachinery.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/o/oharamachinery.co",
+				"/home/maddale/projects/crawler/athena_crawlers/log/jfsales.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/j/jfsales.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/r/rossagri.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/rossagri.co.uk_en.yml",
+				"/home/maddale/Desktop/brockhills.co.uk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mtr/brockhillsag.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/westtrac-depauw.be_nl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/westtrac-depauw.be_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/used-massey-tractors.com_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/dom-rol.pl_pl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/dom-rol.pl_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/o/ohmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mecano.cat_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mecano.cat_es.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/patrickedwardsmachinery.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mpmaskiner.dk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus_crawler.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/mpmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/r/rescienceinc.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/l/lenmark.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/r/repforceequipment.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/u/usedtaylordunnequipment.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/oharamachinery.co.uk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/s-mf.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/rotrakas.lt.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/sundahls.se.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/m/mecano.cat/mecano.cat_es.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/m/mecano.cat/mecano.cat_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/m/mecano.cat/mecano.cat.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/quigleysgarage.ie_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/q/quigleysgarage.ie.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/ohmaskiner.dk_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/beckmaskin.se.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse/pcmaskiner.dk/pcmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse_crawler.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse/mpmaskiner.dk/mpmaskiner.dk_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/technikboerse/mpmaskiner.dk/mpmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/mpmaskiner.dk_en__mascus.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/hameentraktori.fi.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/snstrade.nl/snstrade.nl_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/mascus/andresenmaskin.se.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/m/mpmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/t/townandcountrytruck.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/w/wichtex.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/config/remove_listing.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_pl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_nl.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_fr.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_es.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_de.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/vd-burg.com_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/log/jhfitzpatrick.ie_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/j/jhfitzpatrick.ie.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/s/s-mf.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/log/s-mf.com_en.yml",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/d/dom-rol.pl/dom-rol.pl_pl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/d/dom-rol.pl/dom-rol.pl_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/d/dom-rol.pl/dom-rol.pl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/x/x-maskiner.se/x-maskiner.se_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/z/zg-raiffeisen-technik.de/zg-raiffeisen-technik.de_de.rb",
+				"/home/maddale/Desktop/ohmaskiner.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_pl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_es.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_fr.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/v/vd-burg.com/vd-burg.com_en.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/f/farmas.dk/farmas.dk_de.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/i18n/f/farmas.dk/farmas.dk.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/c/cavanaghsoffermoynewholland.ie.rb",
+				"/home/maddale/Desktop/vd-burg.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/e/eutrucks.nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/m/mosterttrading.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/w/whitesfarmsupply.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/z/zmagturf.com.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/w/wnkramer.nl.rb",
+				"/home/maddale/projects/crawler/athena_crawlers/crawlers/v/vos-trucks.nl.rb",
+				"/home/maddale/.config/sublime-text-3/Packages/User/seller.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/field.sublime-snippet",
+				"/home/maddale/.config/sublime-text-3/Packages/User/fields.sublime-snippet",
+				"/home/maddale/projects/crawler/athena_crawlers/log/cavanaghsoffermoynewholland.ie_en.yml"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 118.0,
+				"where_history":
+				[
+					"-/crawlers/*/*",
+					"-crawlers/*/*",
+					"-crawlers/*/*.rb",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"href",
+					"price",
+					"desc",
+					"title",
+					"specs",
+					"title",
+					"address",
+					"Marshell",
+					"image_url_set",
+					"5ab3ac4aa6189.jpg",
+					"→",
+					"bc",
+					"new",
+					"title",
+					"c60d4094-7073-b461-ff0d-9f66a71d2e70",
+					"bd",
+					":categories:\n    - Tractors",
+					"price",
+					"comp",
+					"wix",
+					"manufacturer",
+					"categories",
+					"itle",
+					"model",
+					"skipped_cats",
+					", ",
+					"manufacturer",
+					"title",
+					"address",
+					"title",
+					"address",
+					"Triumf",
+					"Triumf 9T",
+					"technikboerse",
+					"title",
+					"request",
+					"parse_category",
+					"1526049986",
+					"tractor",
+					"1526398014",
+					"2011 McHale 1.6m Shear Grab",
+					"desc",
+					"model",
+					"title",
+					"\tEpoke Hydr. kost",
+					"current_page",
+					"description",
+					"skipped_specs",
+					"byebug",
+					"price",
+					"ciągnik do obejrzenia",
+					"posiadamy duży",
+					"200 maszyn",
+					"zapewniamy fachowe doradztwo techniczne",
+					"Zapraszamy do zapoznania",
+					"title",
+					"byebug",
+					"title",
+					"1524722939",
+					"1522931672",
+					"1526049986",
+					"tractor",
+					"description",
+					"local_lang",
+					"title",
+					"next_page",
+					"external stock number",
+					"kogel-sn24",
+					"SN24",
+					"bye",
+					"title",
+					"bye",
+					"split",
+					"byebug",
+					"title",
+					"content",
+					"text",
+					"price",
+					"byebug",
+					"Howard",
+					"tel ",
+					"tel",
+					"call",
+					"title",
+					"ford ",
+					"weights",
+					"ford",
+					"stop_words",
+					"title",
+					"title\\",
+					"title",
+					"parse_category",
+					"title",
+					"manufacturer",
+					"parse_listing",
+					"year",
+					"categories",
+					"title",
+					"bye",
+					"title",
+					"year",
+					"line",
+					"budozer",
+					"title",
+					"year",
+					"DHG-GT",
+					"ESE 606 DHG-GT Duplex",
+					"descrip",
+					"Attachment\\",
+					"Attachment",
+					"title",
+					"TM190",
+					"title",
+					"Hydraulic Excavators",
+					"Excavators",
+					"Articulated Trucks",
+					"currency",
+					"title",
+					"description",
+					"title",
+					"Rotary",
+					"Rotary plough",
+					"title",
+					"mower",
+					"title",
+					"price",
+					"manufacturer",
+					"country"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					">",
+					"<"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/maddale/projects/crawler/athena_crawlers"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/maddale/projects/crawler/athena_crawlers/log/agrimontello.it_en.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3622,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3621,
+										3621
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1486.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 322,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										322,
+										322
+									]
+								],
+								"settings":
+								{
+									"default_dir": "/home/maddale/.config/sublime-text-3/Packages/User",
+									"default_extension": "sublime-snippet",
+									"syntax": "Packages/XML/XML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/maddale/projects/crawler/athena_crawlers/log/agrimontello.it_it.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3450,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4,
+										3449
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1508.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 287.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 75,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+if fields[:manufacturer] && fields[:model]
+  field :title, value: fields.values_at(:year, :manufacturer, :model).compact.join(" ")
+else
+  field :title, value: ${1:}
+end
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>titleif</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+field :id,         value: MurmurHash3::V32.str_hash(${1:url.to_s.split("/").last})
+field :url,        value: url.to_s
+field :price,      value: 0
+field :domain,     value: domain
+field :categories, value: ${2:categories.to_a}
+field :condition,  value: "used"
+field :location,   value: ""
+field :desc,       value: ""
+field :image,      value: ""
+field :title,      value: ""
+
+yield fields
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>fields</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
